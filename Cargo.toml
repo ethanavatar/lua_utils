@@ -1,0 +1,5 @@
+[workspace]
+resover = "1"
+members = [
+    "list_dir"
+]
